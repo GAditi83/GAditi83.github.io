@@ -1,0 +1,27 @@
+#main{
+    align-items: center;
+    text-align: center;
+}
+h1{
+    align-self: center;
+}
+
+textarea{
+    resize: none;
+    border:none;
+    text-justify: auto;
+    text-decoration: solid;
+    text-align: center;
+}
+
+button{
+    background-color: cornflowerblue;
+    border:darkslateblue;
+    text-align: center;
+    text-shadow: dimgrey;
+    width:100px;
+    height:40px;
+    border-radius: 12px;
+    border-style: groove;
+    -moz-text-size-adjust: auto;
+}
